@@ -1,0 +1,81 @@
+canonical_identifier: bkk:krp/KR4k0041/kf/v1
+canonical_location: https://kanripo.org/bkk/KR4k0041/kf/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4k0041_000-kf.yaml, hash: 'sha256:cf217c998854ee908cfbd5c283f6ca25f6c4436750227ef74d6f4ade83c1e466'}
+  - {seq: 1, filename: KR4k0041_001-kf.yaml, hash: 'sha256:065d4f0594b4eac38919d289ef99f21b394e67d50ea9b19caecd21294625e8b4'}
+  - {seq: 2, filename: KR4k0041_002-kf.yaml, hash: 'sha256:241d915b8730c0d8bcd28626e80cf0460ce7fcf1ce31910bd3acae4b61c93a92'}
+  - {seq: 3, filename: KR4k0041_003-kf.yaml, hash: 'sha256:c8e2579863385a645dcd97a7738812225d37a4faf9d7aca213cf7eb547ae6b0f'}
+  - {seq: 4, filename: KR4k0041_004-kf.yaml, hash: 'sha256:43b4f8c64d7c5fb3f21b342f1158e54f26830e1635d9b88c1bd3154b83a02404'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4k0041_000-kf.markers.yaml, hash: 'sha256:775432737a8b6364c8553ef30d97a0ca6cb7270811bef787a923f562b04e7f45'}
+  - {seq: 1, role: markers, filename: assets/KR4k0041_001-kf.markers.yaml, hash: 'sha256:1bc5fa3cb9a666a519d703bd50035ed07d72f10095dd647eac96b6cd43af5efb'}
+  - {seq: 2, role: markers, filename: assets/KR4k0041_002-kf.markers.yaml, hash: 'sha256:3adbcfb75d8cdf1f6554f3c231e0d4c409740df04f5d6ae423e11b978390f8c9'}
+  - {seq: 3, role: markers, filename: assets/KR4k0041_003-kf.markers.yaml, hash: 'sha256:d3b7d3b1b6a56ab046c27a753825fe9ef49fee5133c1d29313e6e4d414eb0d4a'}
+  - {seq: 4, role: markers, filename: assets/KR4k0041_004-kf.markers.yaml, hash: 'sha256:86f36545a19696b5046748f7f1216e2071fec361bd2f1b30348e8997e605f86d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4k0041_kf_000-h.1
+    span:
+    - body
+    - 0
+    - 741
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4k0041_kf_001-h.1
+    span:
+    - body
+    - 0
+    - 158714
+  label: 第一回高丞相直諫辟邪
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4k0041_kf_002-h.1
+    span:
+    - body
+    - 0
+    - 143437
+  label: 第二十一回竊天書後園遣將
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4k0041_kf_003-h.1
+    span:
+    - body
+    - 0
+    - 8993
+  label: 第三十九回順天時三俠稱王
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4k0041_kf_004-h.1
+    span:
+    - body
+    - 0
+    - 10483
+  label: 第四十回禪師坐化證菩提
+  type: section
+  level: 1
+metadata:
+  title: 禪真逸史
+  identifiers:
+    krp: KR4k0041
+  tags:
+    kr-categories: KR4k
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0041.xml
+  edition:
+    short: kf
+hash: sha256:39b509d45346acf2c629d32227c673c5a4a7b06f5b23569bb368884d0fa4d6dc
